@@ -13,6 +13,3 @@ def domain_name(url):
     l = split[0]
     l1 = l.split(".")
     return l1[0]
-print(domain_name("www.zombie-bites.com"))
-string = "kol"
-print(string.index("o"))
